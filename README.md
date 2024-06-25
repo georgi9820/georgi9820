@@ -54,6 +54,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+  </a>
 </p>
 
 <div align="center">
