@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Georgi Georgiev</h1>
 <h3 align="center">
-  A passionate software and QA Automation Engineer who's an ambitious and motivated individual with a passion for programming and testing software. 
-  My passion is Java. I strive to achieve every goal I set for myself, embracing challenges and exploring the unknown with enthusiasm.
+  A passionate QA Automation Engineer who's an ambitious and motivated individual with a passion for testing software. 
 </h3>
 
 <div align="center">
